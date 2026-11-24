@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+data/
+demo-data/
+*.csv
+*.zip
+*.log
+*.tmp
+catboost_info/
+*.pkl
+*.joblib
+.DS_Store
